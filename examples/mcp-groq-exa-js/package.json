@@ -9,7 +9,7 @@
     "dev": "tsx watch index.ts"
   },
   "dependencies": {
-    "e2b": "^2.3.4",
+    "e2b": "^2.63.0",
     "openai": "^4.67.0",
     "dotenv": "^16.4.5"
   },
